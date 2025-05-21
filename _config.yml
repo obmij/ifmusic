@@ -1,10 +1,10 @@
 title: "IF Music School"
 description: "Learn music the modern way – with YouTube, Udemy, and more"
-baseurl: "" # leave blank for GitHub Pages root
+baseurl: "" 
 url: "https://obmij.github.io/ifmusic/"
-theme: minima
+theme: jekyll-theme-cayman
 
-# Navigation links
+
 header_pages:
   - about.md
   - youtube.md
